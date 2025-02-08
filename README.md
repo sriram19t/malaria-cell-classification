@@ -1,5 +1,5 @@
 # 🦠 Malaria Cell Classification  
-*A project by [Your Name], transitioning from QA to AI/ML*  
+*A project by Sai Sriram, transitioning from QA to AI/ML*  
 
 ## 🎯 Objective  
 Detect malaria-infected cells in blood smear images using CNNs.  
